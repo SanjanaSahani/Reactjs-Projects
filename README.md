@@ -1,8 +1,24 @@
-# React + Vite
+# Counter Project
+This project is a simple web application that allows you to change the value of the counter number with the help of Add and Subtract button with the help of React JS.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
 
-Currently, two official plugins are available:
+- Change the counter number with a click of a button.
+- Reset the counter number with a click of a reset button.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
+
+These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- [Node.js](https://nodejs.org/) installed on your computer.
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/SanjanaSahani/Reactjs-Projects.git
